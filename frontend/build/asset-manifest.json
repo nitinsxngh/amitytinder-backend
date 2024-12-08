@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-tinder-card-demo/static/css/main.afcdb86a.css",
-    "main.js": "/react-tinder-card-demo/static/js/main.da617677.js",
+    "main.js": "/react-tinder-card-demo/static/js/main.3ff5454e.js",
     "index.html": "/react-tinder-card-demo/index.html",
     "main.afcdb86a.css.map": "/react-tinder-card-demo/static/css/main.afcdb86a.css.map",
-    "main.da617677.js.map": "/react-tinder-card-demo/static/js/main.da617677.js.map"
+    "main.3ff5454e.js.map": "/react-tinder-card-demo/static/js/main.3ff5454e.js.map"
   },
   "entrypoints": [
     "static/css/main.afcdb86a.css",
-    "static/js/main.da617677.js"
+    "static/js/main.3ff5454e.js"
   ]
 }
